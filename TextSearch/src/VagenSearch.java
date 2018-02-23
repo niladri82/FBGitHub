@@ -11,7 +11,7 @@ public class VagenSearch {
 	private File folder;
 	private File[] files; // array of files in the folder
 
-	private String[] views = {"CUSTOMER PO NBR"};
+	private String[] views = {"PG0C"};
 
 	private HashMap<String, HashSet<File>> viewFileMap;
 
